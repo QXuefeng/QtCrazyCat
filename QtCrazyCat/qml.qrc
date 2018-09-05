@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>img/start_bg.png</file>
+        <file>StartPage.qml</file>
+        <file>PlayingPage.qml</file>
+        <file>img/play_bg.jpg</file>
+        <file>Circle.qml</file>
+        <file>img/trap.png</file>
+        <file>img/stay.png</file>
+        <file>MessagePanel.qml</file>
+        <file>img/failed.png</file>
+        <file>img/victory.png</file>
+        <file>img/replay.png</file>
+        <file>ttf/MFDingDing.otf</file>
+    </qresource>
+</RCC>
